@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Emily Janke
+- 👀 I’m interested in learning more about data analytics
+- 🌱 I’m currently learning SQL
